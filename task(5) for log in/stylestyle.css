@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Rubik&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(241, 206, 231);
+  font-family: 'Poppins', sans-serif;
+}
+
+.h1 {
+  border-radius: 10px;
+}
+
+.div1 {
+  display: flex;
+  top: 20%;
+  left: 30%;
+  height: 55.5vh;
+  position: absolute;
+  box-shadow: 0px 6px 6px rgba(51, 49, 51, 0.87);
+}
+
+.facebook {
+  height: 30px;
+  padding-left: 60px;
+  margin-top: 2vh;
+}
+
+.twitter {
+  height: 30px;
+  padding-left: 32px;
+}
+
+.form-content {
+  background-color: white;
+  padding: 20px;
+}
+
+.form-detail {
+  background-color: rgba(224, 41, 111, 0.87);
+  padding: 20px;
+}
+
+.p1 {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 2vh;
+
+}
+
+.p2 {
+  text-align: center;
+  font-size: 17px;
+  margin-top: 2vh;
+}
+
+.border {
+  width: 32vh;
+  border: none;
+  height: 25px;
+  margin-top: 12px;
+  padding-left: 10px;
+  border-radius: 2px;
+  background-color: antiquewhite;
+}
+
+.p3 {
+  text-align: center;
+  font-size: 15px;
+  margin-top: 3vh;
+}
+
+.submit {
+  margin-top: 3vh;
+  background-color: rgba(224, 41, 111, 0.87);
+  border: none;
+  margin-left: 12vh;
+  border-radius: 25px;
+  width: 12vh;
+  height: 4vh;
+}
+
+.p4 {
+  text-align: center;
+  padding-top: 17vh;
+  color: white;
+}
+
+.p5 {
+  text-align: center;
+  font-size: 17px;
+  margin-top: 3vh;
+  color: white;
+}
